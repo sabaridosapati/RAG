@@ -1,0 +1,1 @@
+print("Using embedding model:", self.model)

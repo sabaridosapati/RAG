@@ -1,0 +1,19 @@
+
+# PDF Extraction
+docling
+
+# Graph Database
+neo4j
+
+# Google Gemini AI
+google-genai
+
+# Environment Variables
+python-dotenv
+
+# Utilities
+numpy
+PyPDF2
+
+# Gradio UI
+gradio
